@@ -1,0 +1,3 @@
+This is my personal test run of the OpenVPN framework hooked onto a cloud server on a private machine.
+The motive of this was to prevent any DNS leaks which may arise.
+
